@@ -23,28 +23,45 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```typescript
 const developer = {
   name:       "Vaibhav Kumar",
   username:   "Vaibhav-dev30",
-  role:       "Full Stack Developer & AI Enthusiast",
+  role:       "Full Stack Dev & AI Enthusiast",
   location:   "India 🇮🇳",
   education:  "B.Tech Computer Science",
-  focus:      ["AI-Powered Apps", "Full Stack Development", "Open Source"],
-  available:  true, // 🟢 Open to Internships & Full-time Roles
-  funFact:    "I turn coffee into AI-powered products ☕ → 🤖",
+  focus:      [
+    "AI-Powered Apps",
+    "Full Stack Development",
+    "Open Source"
+  ],
+  available:  true, // 🟢 Open to Internships
+  funFact:    "Coffee ☕ → AI Products 🤖",
 };
 ```
 
-- 🔭 Currently building **AI-powered SaaS & research platforms** for real-world impact
-- 🌱 Exploring **LLMs, Agentic AI, RAG pipelines, and FastAPI**
-- 💡 Passionate about making **AI accessible and practical**
-- 🎯 Goal: Land an **impactful software engineering role** in 2025
-- 📫 Reach me at: **kumarvaibhavvs16@gmail.com**
+- 🔭 Building **AI-powered SaaS & research platforms**
+- 🌱 Exploring **LLMs, Agentic AI & RAG pipelines**
+- 💡 Passionate about **making AI practical**
+- 🎯 Goal: **Impactful SWE role in 2025**
+- 📫 **kumarvaibhavvs16@gmail.com**
 
-<br clear="right"/>
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="180" alt="Developer" />
+
+<br/>
+
+![Coding](https://img.shields.io/badge/Status-Building%20Cool%20Stuff-6C63FF?style=for-the-badge&logo=github&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
