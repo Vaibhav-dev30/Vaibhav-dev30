@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%20There!%20I'm%20[Your%20Name]%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%20There!%20I'm%20Vaibhav%20Kumar%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Products+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript+Expert;Open+to+Internships+%26+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Products+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript+%7C+Python;Open+to+Internships+%26+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
 
 <!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Vaibhav-dev30&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=6C63FF&labelColor=1a1a2e&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/Vaibhav-dev30?style=for-the-badge&color=6C63FF&labelColor=1a1a2e&label=FOLLOWERS" />
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME?tab=stars">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=6C63FF&labelColor=1a1a2e&label=TOTAL+STARS" />
+<a href="https://github.com/Vaibhav-dev30?tab=stars">
+  <img src="https://img.shields.io/github/stars/Vaibhav-dev30?style=for-the-badge&color=6C63FF&labelColor=1a1a2e&label=TOTAL+STARS" />
 </a>
 
 </div>
@@ -27,7 +27,8 @@
 
 ```typescript
 const developer = {
-  name:       "Your Name",
+  name:       "Vaibhav Kumar",
+  username:   "Vaibhav-dev30",
   role:       "Full Stack Developer & AI Enthusiast",
   location:   "India 🇮🇳",
   education:  "B.Tech Computer Science",
@@ -37,11 +38,11 @@ const developer = {
 };
 ```
 
-- 🔭 Currently building **AI-powered SaaS products** for real-world impact
-- 🌱 Exploring **LLMs, RAG pipelines, and AI integrations**
-- 💡 Passionate about making **AI accessible and useful**
-- 🎯 Goal: Land an **impactful software engineering role** in 2024
-- 📫 Reach me at: **your.email@gmail.com**
+- 🔭 Currently building **AI-powered SaaS & research platforms** for real-world impact
+- 🌱 Exploring **LLMs, Agentic AI, RAG pipelines, and FastAPI**
+- 💡 Passionate about making **AI accessible and practical**
+- 🎯 Goal: Land an **impactful software engineering role** in 2025
+- 📫 Reach me at: **kumarvaibhavvs16@gmail.com**
 
 <br clear="right"/>
 
@@ -57,9 +58,13 @@ const developer = {
 &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 &nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 &nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
@@ -67,9 +72,9 @@ const developer = {
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 &nbsp;
@@ -78,6 +83,8 @@ const developer = {
 ### 🤖 AI & Tools
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Groq_LLM-FF6B35?style=for-the-badge&logo=data&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
 &nbsp;
@@ -131,7 +138,7 @@ An end-to-end platform that analyzes resumes against ATS systems, provides smart
 
 [![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-6C63FF?style=for-the-badge&logoColor=white)](https://evalpro-ai.netlify.app/)
 &nbsp;
-[![View Repo](https://img.shields.io/badge/📁_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/resuai)
+[![View Repo](https://img.shields.io/badge/📁_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav-dev30/resuai)
 
 <br/>
 
@@ -156,7 +163,7 @@ An end-to-end platform that analyzes resumes against ATS systems, provides smart
 
 [![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-6C63FF?style=for-the-badge&logoColor=white)](https://medaid-ai.netlify.app/)
 &nbsp;
-[![View Repo](https://img.shields.io/badge/📁_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/medaid-ai)
+[![View Repo](https://img.shields.io/badge/📁_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav-dev30/medaid-ai)
 
 <br/>
 
@@ -223,7 +230,7 @@ A powerful evaluation and analytics platform leveraging AI to generate comprehen
 
 [![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-6C63FF?style=for-the-badge&logoColor=white)](https://evalpro-ai.netlify.app/)
 &nbsp;
-[![View Repo](https://img.shields.io/badge/📁_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/evalpro-ai)
+[![View Repo](https://img.shields.io/badge/📁_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav-dev30/evalpro-ai)
 
 <br/>
 
@@ -248,7 +255,7 @@ A powerful evaluation and analytics platform leveraging AI to generate comprehen
 
 [![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-6C63FF?style=for-the-badge&logoColor=white)](https://link-growth-ai.vercel.app/)
 &nbsp;
-[![View Repo](https://img.shields.io/badge/📁_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/growth-ai)
+[![View Repo](https://img.shields.io/badge/📁_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav-dev30/growth-ai)
 
 <br/>
 
@@ -282,22 +289,69 @@ An intelligent LinkedIn growth platform that generates high-engagement content, 
 
 ---
 
+<!-- ResearchHub AI -->
+<div align="center">
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+### 🔬 ResearchHub AI — Intelligent Research Paper Management System
+
+> *Agentic AI for smarter academic research workflows*
+
+A production-ready full-stack system powered by FastAPI, React (TypeScript), and Groq's Llama3 model. Enables intelligent research paper search, AI-based analysis, paper summarization, and conversational Q&A — built with a modular Agentic AI architecture designed for scale.
+
+**✨ Key Features:**
+- 📝 **AI Paper Analysis** — Summarization, key findings & keyword extraction
+- 💬 **Conversational AI Chat** — Interactive Q&A on research content
+- 🔐 **JWT Authentication** — Secure bcrypt-hashed login system
+- 🧩 **Modular Agent Design** — Independently scalable AI modules
+
+**🔧 Tech Stack:**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_Llama3-FF6B35?style=flat-square&logoColor=white)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://img.shields.io/badge/STATUS-BUILT-0075FF?style=for-the-badge" />
+
+<br/><br/>
+
+[![View Repo](https://img.shields.io/badge/📁_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav-dev30/ResearchHub-AI)
+
+<br/>
+
+*Agentic AI meets academic research*
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-dev30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" width="48%" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=c9d1d9&stroke=6C63FF&currStreakNum=ffffff&sideNums=ffffff" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Vaibhav-dev30&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=c9d1d9&stroke=0d1117&currStreakNum=ffffff&sideNums=ffffff" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-dev30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" width="40%" />
 
 <br/><br/>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true&area_color=6C63FF" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav-dev30&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true&area_color=6C63FF" width="96%" />
 
 </div>
 
@@ -307,19 +361,20 @@ An intelligent LinkedIn growth platform that generates high-engagement content, 
 
 <div align="center">
 
-| 🤖 AI Products Built | 🚀 Live Deployments | 💻 Tech Stack | 🌍 Impact Focus |
+| 🤖 AI Products Built | 🚀 Live Deployments | 💻 Languages | 🌍 Impact Focus |
 |:---:|:---:|:---:|:---:|
-| **4+** | **4+** | **10+ Technologies** | **Real-world Problems** |
+| **5+** | **4+** | **TypeScript · Python · JS** | **Real-world Problems** |
 
 </div>
 
 <div align="center">
 
 ```
-🚀 ResuAI     ████████████████████  AI Resume Optimization
-🏥 MedAid AI  ████████████████████  Healthcare AI Platform  
-📊 EvalPro AI ████████████████████  Performance Analytics
-📈 Growth AI  ████████████████████  LinkedIn Growth Tool
+🚀 ResuAI          ████████████████████  AI Resume & ATS Optimization
+🏥 MedAid AI       ████████████████████  Healthcare AI Platform
+📊 EvalPro AI      ████████████████████  Performance Analytics
+📈 Growth AI       ████████████████████  LinkedIn Growth Tool
+🔬 ResearchHub AI  ████████████████████  Agentic AI Research System
 ```
 
 </div>
@@ -338,9 +393,9 @@ An intelligent LinkedIn growth platform that generates high-engagement content, 
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO.com)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarvaibhavvs16@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav-dev30)
 
 <br/>
 
