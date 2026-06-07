@@ -344,6 +344,10 @@ A production-ready full-stack system powered by FastAPI, React (TypeScript), and
 
 <br/>
 
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-00C853?style=for-the-badge&logoColor=white)](https://re-hub-ai.vercel.app)
+
+<br/>
+
 *Agentic AI meets academic research*
 
 </td>
