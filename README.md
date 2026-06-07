@@ -153,7 +153,7 @@ An end-to-end platform that analyzes resumes against ATS systems, provides smart
 
 <br/><br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-6C63FF?style=for-the-badge&logoColor=white)](https://evalpro-ai.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-6C63FF?style=for-the-badge&logoColor=white)](https://res-ai-gen.netlify.app/)
 &nbsp;
 [![View Repo](https://img.shields.io/badge/📁_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav-dev30/resuai)
 
