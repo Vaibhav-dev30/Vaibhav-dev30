@@ -313,30 +313,43 @@ An intelligent LinkedIn growth platform that generates high-engagement content, 
 <td width="60%" valign="top">
 
 ### 🔬 ResearchHub AI — Intelligent Research Paper Management System
+
 > *Agentic AI for smarter academic research workflows*
+
 A production-ready full-stack system powered by FastAPI, React (TypeScript), and Groq's Llama3 model. Enables intelligent research paper search, AI-based analysis, paper summarization, and conversational Q&A — built with a modular Agentic AI architecture designed for scale.
+
 **✨ Key Features:**
 - 📝 **AI Paper Analysis** — Summarization, key findings & keyword extraction
 - 💬 **Conversational AI Chat** — Interactive Q&A on research content
 - 🔐 **JWT Authentication** — Secure bcrypt-hashed login system
 - 🧩 **Modular Agent Design** — Independently scalable AI modules
+
 **🔧 Tech Stack:**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_Llama3-FF6B35?style=flat-square&logoColor=white)
+
 </td>
 <td width="40%" align="center" valign="middle">
+
 <img src="https://img.shields.io/badge/STATUS-BUILT-0075FF?style=for-the-badge" />
+
 <br/><br/>
-[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-00C853?style=for-the-badge&logoColor=white)](https://re-hub-ai.vercel.app)
-<br/>
+
 [![View Repo](https://img.shields.io/badge/📁_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav-dev30/ResearchHub-AI)
+
 <br/>
+
 *Agentic AI meets academic research*
+
 </td>
+</tr>
+</table>
+</div>
 
 ---
 
