@@ -336,15 +336,12 @@ A production-ready full-stack system powered by FastAPI, React (TypeScript), and
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://img.shields.io/badge/STATUS-BUILT-0075FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-LIVE-00C851?style=for-the-badge" />
 
 <br/><br/>
 
 [![View Repo](https://img.shields.io/badge/📁_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav-dev30/ResearchHub-AI)
-
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-00C853?style=for-the-badge&logoColor=white)](https://re-hub-ai.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-6C63FF?style=for-the-badge&logoColor=white)](https://re-hub-ai.vercel.app)
 
 <br/>
 
